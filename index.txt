@@ -1,13 +1,3 @@
 Revisi lagi 1
 Revisi lagi 2
 Revisi lagi 3
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-Perubahan oleh Abe 1
-=======
-perubahan pertama
->>>>>>> 8908b44376c3044ca134476c29d451b255893a6b
-=======
-perubahan pertama
->>>>>>> 8908b44376c3044ca134476c29d451b255893a6b
